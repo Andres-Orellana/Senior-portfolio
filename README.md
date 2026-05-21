@@ -10,7 +10,7 @@
 * Simulated OS-level memory management in C++ including a custom MMU, configurable page table, and virtual-to-physical address translation across a 64 MB memory space.
 * Built an interactive REPL supporting process creation, typed variable allocation, heap management, and process termination.
 
-[NourishDB](https://github.com/AndreTheBig/NourishDB)
+[NourishDB](https://github.com/Andres-Orellana/NourishDB)
 
 * Developed a dual-portal web application for food pantries allowing families to register and check in for pickups while volunteers manage inventory and log hours.
 * Integrated Supabase (PostgreSQL) for cloud data persistence and added multi-language support, barcode generation, and food rescue logging across 8 inventory categories.
