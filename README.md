@@ -1,4 +1,4 @@
-# Senior-portfolio
+# Senior Portfolio
 
 [Task Manager](https://github.com/Andres-Orellana/taskManager_project)
 
